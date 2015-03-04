@@ -36,6 +36,7 @@
                             <constraint firstAttribute="trailing" secondItem="bk1-NW-tXy" secondAttribute="trailing" constant="300" id="hqg-Wa-v3k"/>
                             <constraint firstItem="rA9-ti-2M8" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="20" id="iYI-on-JM6"/>
                             <constraint firstItem="bk1-NW-tXy" firstAttribute="leading" secondItem="EHW-nt-rLC" secondAttribute="trailing" constant="20" id="ikT-ZU-hLD"/>
+                            <constraint firstAttribute="trailing" secondItem="rA9-ti-2M8" secondAttribute="trailing" constant="300" id="j16-qp-Sk7"/>
                             <constraint firstItem="bk1-NW-tXy" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" constant="19" id="sCK-09-KvI"/>
                             <constraint firstItem="EHW-nt-rLC" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" constant="20" id="vxf-sr-7ON"/>
                         </constraints>
