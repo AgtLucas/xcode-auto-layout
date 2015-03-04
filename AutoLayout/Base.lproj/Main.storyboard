@@ -32,7 +32,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="EHW-nt-rLC" firstAttribute="width" secondItem="bk1-NW-tXy" secondAttribute="width" id="KGu-BW-rr7"/>
+                            <constraint firstItem="EHW-nt-rLC" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="20" id="a4e-Ez-KnP"/>
                             <constraint firstItem="bk1-NW-tXy" firstAttribute="leading" secondItem="EHW-nt-rLC" secondAttribute="trailing" constant="20" id="ikT-ZU-hLD"/>
+                            <constraint firstItem="EHW-nt-rLC" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" constant="20" id="vxf-sr-7ON"/>
                         </constraints>
                     </view>
                     <connections>
